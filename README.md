@@ -19,6 +19,7 @@ This repository demonstrates how to bind data from various remote services to a 
 * ODataV4Adaptor
 * GraphQLAdaptor
 * RemoteSaveAdaptor
+* CustomAdaptor
 
 ## Prerequisites
 
