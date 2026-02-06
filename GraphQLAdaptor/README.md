@@ -34,7 +34,7 @@ To run the client-side Syncfusion Grid application, use the following command:
 
 ```bash
 npm install
-npm run dev
+npm run serve
 ```
 
 ![GraphQLAdaptor](../assets/images/adaptor-crud-operation.gif)
